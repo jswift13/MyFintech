@@ -18,5 +18,5 @@ The design prioritizes clarity and ease of use. The final product maintains the 
 PT - Inicialmente, a interface do usuário (UI) foi projetada usando o Figma, com foco em aplicações móveis. Esse design serviu como base para o desenvolvimento. Durante o processo de desenvolvimento, ele evoluiu para se tornar uma aplicação web totalmente responsiva para maximizar a acessibilidade do usuário. O design prioriza clareza e facilidade de uso. O produto final mantém os elementos de design principais, adaptando-se a um formato web.
 
 
-## UI Schematics |
+## UI Schematics 
 <img width="2808" alt="MyFintech_Figma_Prototypes" src="https://github.com/user-attachments/assets/457eb653-0d3e-4b5d-a52f-06cc74bdd6e4" />
