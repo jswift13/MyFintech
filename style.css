@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Barlow, sans-serif;
-    background: url('photos/bg_myfintech.jpg') no-repeat center center fixed;
+    background: url('src/images/bg_myfintech.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
